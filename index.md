@@ -1,5 +1,5 @@
 ---
-title: {{ site.title }}
+title: omi-otsukeの紹介ページ
 ---
 
 ## 自己紹介とこのサイトについて
