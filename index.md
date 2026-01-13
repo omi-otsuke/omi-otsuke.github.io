@@ -16,14 +16,17 @@ omi-otsukeと申します。
 - [城ノート](https://apps.apple.com/us/app/%E5%9F%8E%E3%83%8E%E3%83%BC%E3%83%88/id6752355246)  
   各地のお城に訪問したときの思い出を記録できるiOS向けアプリです。
 
-## ブログ
+## ブログ、SNS
 
 - [Zenn](https://zenn.dev/omi_otsuke)  
   アプリの紹介やIT技術に関して学んだことやつまづいたことについて発信します。
 
+- [X（旧Twitter）](https://x.com/ootsuke79508?s=21)  
+  アプリに関するお知らせなどを発信します。
+
 ## 問い合わせ
 
-- [X（旧Twitter）](https://x.com/ootsuke79508?s=21)  
+- [メール](mailto:omi.otsuke102@gmail.com)  
   アプリに関するお問い合わせはこちらから
 
 ## その他
