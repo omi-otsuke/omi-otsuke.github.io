@@ -13,7 +13,7 @@ omi-otsukeと申します。
 - [UsageRecorder](https://zenn.dev/omi_otsuke/articles/b4b72afae458e4)  
   特定のアプリを使用していた期間を記録するためのWindows向けアプリです。
 
-- [城ノート](https://apps.apple.com/us/app/%E5%9F%8E%E3%83%8E%E3%83%BC%E3%83%88/id6752355246)  
+- [城ノート](https://apps.apple.com/jp/app/%E5%9F%8E%E3%83%8E%E3%83%BC%E3%83%88-100%E5%90%8D%E5%9F%8E-%E7%B6%9A100%E5%90%8D%E5%9F%8E%E8%A8%98%E9%8C%B2%E3%82%A2%E3%83%97%E3%83%AA/id6752355246)  
   各地のお城に訪問したときの思い出を記録できるiOS向けアプリです。
 
 ## ブログ、SNS
