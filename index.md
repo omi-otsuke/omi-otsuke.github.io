@@ -26,7 +26,7 @@ omi-otsukeと申します。
 
 ## 問い合わせ
 
-- [メール](mailto:omi.otsuke102@gmail.com)  
+- [お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLScOEzmSc5pCR8mb6ssebLg_-nU2zrwPsJS9L9Yn1PC3b1EN6w/viewform?usp=header)  
   アプリに関するお問い合わせはこちらから
 
 ## その他
