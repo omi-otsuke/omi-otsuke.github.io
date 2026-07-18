@@ -1,5 +1,6 @@
 ---
 title: omi-otsukeの紹介ページ
+layout: default
 ---
 
 ## 自己紹介とこのサイトについて
@@ -15,6 +16,8 @@ omi-otsukeと申します。
 
 - [城ノート](https://apps.apple.com/jp/app/%E5%9F%8E%E3%83%8E%E3%83%BC%E3%83%88-100%E5%90%8D%E5%9F%8E-%E7%B6%9A100%E5%90%8D%E5%9F%8E%E8%A8%98%E9%8C%B2%E3%82%A2%E3%83%97%E3%83%AA/id6752355246)  
   各地のお城に訪問したときの思い出を記録できるiOS向けアプリです。
+  - [利用規約]({% link 利用規約.md %})
+  - [プライバシーポリシー]({% link プライバシーポリシー.md %})
 
 ## ブログ、SNS
 
@@ -28,7 +31,3 @@ omi-otsukeと申します。
 
 - [お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLScOEzmSc5pCR8mb6ssebLg_-nU2zrwPsJS9L9Yn1PC3b1EN6w/viewform?usp=header)  
   アプリに関するお問い合わせはこちらから
-
-## その他
-
-- [プライバシーポリシー](https://drive.google.com/file/d/1pIJtv-RM8L_rP7RiaVGZXfPjsU381oiC/view?usp=sharing)
